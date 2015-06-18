@@ -18,7 +18,7 @@ namespace StasisChamberKSP
             Events["FreezeCrew"].active = false;
             Events["UnFreezeCrew"].active = true;
             #if DEBUG
-                Debug.Log("Crew Frozen/DeSpawned.")
+                Debug.Log("Crew Frozen/DeSpawned.");
             #endif
         }
 
@@ -29,7 +29,7 @@ namespace StasisChamberKSP
             Events["UnFreezeCrew"].active = false;
             Events["FreezeCrew"].active = true;
             #if DEBUG
-                Debug.Log("Crew UnFrozen/Spawned.")
+                Debug.Log("Crew UnFrozen/Spawned.");
             #endif
         }
     }
