@@ -6,7 +6,7 @@ using UnityEngine;
 
 
 
-namespace StasisChamberKSP
+namespace StasisChamber
 {
     public class StasisChamber : PartModule
     {
