@@ -5,8 +5,6 @@
 *.suo
 *.user
 *.sln.docstates
-*.bat
-*.dll.mdb
 
 
 # Build results
@@ -18,8 +16,6 @@ build/
 bld/
 [Bb]in/
 [Oo]bj/
-Output/*
-Output/
 
 # Roslyn cache directories
 *.ide/
